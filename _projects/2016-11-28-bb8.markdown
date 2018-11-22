@@ -1,0 +1,7 @@
+---
+layout: post
+title: BB8 Robot
+description: A self-balancing ball robot.
+img: /img/bb8.jpeg
+redirect: http://www.build18.org/garage/project/233/
+---
