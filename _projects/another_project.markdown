@@ -11,9 +11,9 @@ The robot we built had one of the highest scores, and was extremely fast in trav
 
 
 <div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/img/biped_gif1.gif" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/biped_gif2.gif" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/LegLengths.png" alt="" title="example image"/>
+	<img class="col two" src="{{ site.baseurl }}/img/biped_gif1.gif" alt="" title="example image"/>
+	<img class="col two" src="{{ site.baseurl }}/img/biped_gif2.gif" alt="" title="example image"/>
+	<img class="col two" src="{{ site.baseurl }}/img/LegLengths.png" alt="" title="example image"/>
 </div>
 <div class="col three caption">
 	On the left, a simulation of the robot gait. Middle, dog walking gait we are modeling from. Right, dimensions of four-bar linkage system.
