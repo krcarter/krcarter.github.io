@@ -2,12 +2,12 @@
 layout: post
 title: Another Project 2
 description: Another project with a background image
-img: /img/bipedal_CAD.png
+img: /img/Design2_Gripper.jpg
 ---
 
-Project for my junior year engineering Design I class. Task was to design and build a robot to traverse stairs, rocks, and hills just with one motor.
+Project for my junior year engineering Design I class. Task was to design and build a mechanical gripper to pick up a 5 pound aluminum machined fidget spinner
 
-The robot we built had one of the highest scores, and was extremely fast in traversing through the rocks. 
+Gripper was made out of lasered-cut acrylic, 3d-printed parts, and off the shelf hardware.
 
 <div class="img_row">
 	<img class="col one" src="{{ site.baseurl }}/img/1.jpg" alt="" title="example image"/>
@@ -41,7 +41,3 @@ You can also put regular text between your rows of images. Say you wanted to wri
 
 The code is simple. Just add a col class to your image, and another class specifying the width: one, two, or three columns wide. Here's the code for the last row of images above: 
 
-	<div class="img_row">
-	  <img class="col two" src="/img/6.jpg"/>
-	  <img class="col one" src="/img/11.jpg"/>
-	</div>
