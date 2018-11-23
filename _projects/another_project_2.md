@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Another Project 2
-description: Another project with a background image
+title: AMechanical Gripper
+description: Engineering Design project
 img: /img/Design2_Gripper.jpg
 ---
 
