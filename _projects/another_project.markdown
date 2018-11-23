@@ -2,19 +2,12 @@
 layout: post
 title: Quadruped Robot
 description: Walking Robot Controlled by 4-bar linkage
-img: /img/another_project.jpg
+img: /img/bipedal_CAD.png
 ---
 
-Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
+Project for my junior year engineering Design I class. Task was to design and build a robot to traverse stairs, rocks, and hills just with one motor.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so: 
-
-	---
-	layout: post
-	title: Project
-	description: a project with a background image
-	img: /img/12.jpg
-	---
+The robot we built had one of the highest scores, and was extremely fast in traversing through the rocks.
 
 
 <div class="img_row">
