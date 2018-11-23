@@ -26,6 +26,7 @@ On the top, a simulation of the robot gait. Middle, dog walking gait we are mode
 <div class="img_row">
 	<img class="col three" src="{{ site.baseurl }}/img/5.jpg" alt="" title="example image"/>
 </div>
+
 <div class="col three caption">
 	This image can also have a caption. It's like magic. 
 </div>
