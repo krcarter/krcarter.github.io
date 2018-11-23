@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AMechanical Gripper
+title: A Mechanical Gripper
 description: Engineering Design project
 img: /img/Design2_Gripper.jpg
 ---
