@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Another Project
-description: Another project with a background image
+title: Quadruped Robot
+description: Walking Robot Controlled by 4-bar linkage
 img: /img/another_project.jpg
 ---
 
