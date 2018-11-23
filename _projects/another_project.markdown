@@ -5,18 +5,18 @@ description: Walking Robot Controlled by 4-bar linkage
 img: /img/bipedal_CAD.png
 ---
 
-Project for my junior year engineering Design I class. Task was to design and build a robot to traverse stairs, rocks, and hills just with one motor.
+Project for my junior year engineering Design I class. Task was to design and build a robot to traverse stairs, rocks, and hills just with one motor. We designed our robot to have the same walking gait as a dog.
 
 The robot we built had one of the highest scores, and was extremely fast in traversing through the rocks.
 
 
 <div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/img/1.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/2.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/3.jpg" alt="" title="example image"/>
+	<img class="col one" src="{{ site.baseurl }}/img/biped_gif1.gif" alt="" title="example image"/>
+	<img class="col one" src="{{ site.baseurl }}/img/biped_gif2.gif" alt="" title="example image"/>
+	<img class="col one" src="{{ site.baseurl }}/img/LegLengths.png" alt="" title="example image"/>
 </div>
 <div class="col three caption">
-	Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+	On the left, a simulation of the robot gait. Middle, dog walking gait we are modeling from. Right, dimensions of four-bar linkage system.
 </div>
 <div class="img_row">
 	<img class="col three" src="{{ site.baseurl }}/img/5.jpg" alt="" title="example image"/>
@@ -38,7 +38,4 @@ You can also put regular text between your rows of images. Say you wanted to wri
 
 
 <br/><br/><br/>
-
-
-The code is simple. Just add a col class to your image, and another class specifying the width: one, two, or three columns wide. Here's the code for the last row of images above: 
 
