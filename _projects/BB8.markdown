@@ -9,11 +9,16 @@ img: /img/bb8_title.png
 
 ## Overview
 
-Back in sophomore year of my undergraduate study at Carnegie Mellon I competed in a week-long build-a-thon known as Build18. During the build-a-thon we were give $300 dollars, and told to build something cool for the first week of the spring semester. I decided to recreate a life size version of the popular Star Wars BB8 robot. I was the lead mechanical engineer for the project and work alongside 4 computer science majors to complete the project. 
+Back in sophomore year of my undergraduate study at Carnegie Mellon I competed in a week-long build-a-thon known as Build18. During the build-a-thon we were give $300 dollars and told to build something cool for the first week of the spring semester. I decided to recreate a life size version of the popular Star Wars BB8 robot. I was the lead mechanical engineer for the project and work alongside 4 computer science majors to complete the project. The robot during the build-a-thon did not successfully balance at the time, but it did win us some awards. I then went back and reengineering the robot as a case-study in controls senior year in my class, 24-451 Feedback Control Systems.
 
 The projects was greatly inspired by youtuber [James Bruton](https://www.youtube.com/watch?v=dlwcXgZYImU) who does incredible work.
 
-## Building the Robot
+## Chassis
+
+![alt text][bb8_iso]
+[bb8_iso]: https://github.com/krcarter/krcarter.github.io/blob/master/img/bb8_iso.png"
+
+## Electronics
 
 The robot does this using on board sensing with an IMU (inertial measurement unit), beging control by an arduino mega 2560.
 
