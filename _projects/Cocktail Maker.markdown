@@ -23,15 +23,20 @@ We compiled the suggestions from the survey, identified similarities/trends, and
 # Early Prototypes
 <br />
 
-To assure the success and have an understanding of the difficulty of the project we did a lot of prototyping. We broke the prototyping into five subassemblies: storage, handling, extended stations, stirring, and shaking.
+To assure the success and have an understanding of the difficulty of the project we did a lot of prototyping. We broke the prototyping into five subassemblies: storage, handling, extended stations, stirring, and shaking. Below are early renders of what we thought each system would look like
 
 <img src="http://krcarter.github.io/img/ct7.png" alt="ct7" width="500"/>
-
 Early Render
 
-<img src="http://krcarter.github.io/img/ct8.PNG" alt="ct8" width="300" height="200"/> <img src="http://krcarter.github.io/img/ct9.png" alt="ct9" width="300"/>
+<img src="http://krcarter.github.io/img/ct10.PNG" alt="ct10" width="600"/> 
+Left: Handling system Right: Extended Station: System
 
-Left: Shaking Right: Storage
+<img src="http://krcarter.github.io/img/ct8.PNG" alt="ct8" width="300"/> 
+Shaking
+
+<img src="http://krcarter.github.io/img/ct9.png" alt="ct9" width="300"/>
+Storage
+
 
 # Analysis
 <br />
@@ -46,5 +51,7 @@ Left: Shaking Right: Storage
 
 <img src="http://krcarter.github.io/img/ct3.jpg" alt="ct3" width="300"/> <img src="http://krcarter.github.io/img/ct4.jpg" alt="ct4" width="300"/>
 
+<img src="http://krcarter.github.io/img/ct11.png" alt="ct11" width="600"/>
+Final Render
 # Videos
 <br />
