@@ -5,8 +5,6 @@ description: A self-balancing ball robot.
 img: /img/bb8_title.png
 ---
 
-<br />
-
 # Overview
 <br />
 
