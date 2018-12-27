@@ -70,7 +70,8 @@ Below are images of the final prototype for the cocktail maker we presented duri
 
 <img src="http://krcarter.github.io/img/ct3.jpg" alt="ct3" width="300"/> <img src="http://krcarter.github.io/img/ct4.jpg" alt="ct4" width="300"/>
 
-<img src="http://krcarter.github.io/img/ct11.png" alt="ct11" width="600"/>
+<img src="http://krcarter.github.io/img/ct11.png" alt="ct11" width="600"/>  
+
 Final Render
 
 # Videos
