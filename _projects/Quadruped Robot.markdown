@@ -33,7 +33,7 @@ Second Design: Close to what we wanted, but couldn't get over some obstacles wel
 
 Third Design: This was the design we ended up settling for.
 
-<img src="http://krcarter.github.io/img/final_proto.jpg" alt="FinalProto" width="300"/> <img src="http://krcarter.github.io/img/final_curve.png" alt="Final_curve" width="300"/>
+<img src="http://krcarter.github.io/img/final_proto.jpg" alt="FinalProto" width="350"/> <img src="http://krcarter.github.io/img/final_curve.PNG" alt="Final_curve" width="350"/>
 
 # Final Design
 <br />
