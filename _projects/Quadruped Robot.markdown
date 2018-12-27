@@ -26,3 +26,7 @@ Before Getting to our final design we went through several prototype iterations.
 
 # Videos
 <br />
+
+[![Flat Video](http://krcarter.github.io/img/flat_vid.png)](https://www.youtube.com/watch?v=hysU-a_3a7I "Flat Video")
+
+[![Rock Video](http://krcarter.github.io/img/rock_vid.png)](https://www.youtube.com/watch?v=CIyDcqAJPAU "Rock Video")
