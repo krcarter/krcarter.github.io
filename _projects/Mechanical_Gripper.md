@@ -32,9 +32,9 @@ img: /img/Design2_Gripper.jpg
 # Final Prototype Design
 <br />
 
-<img src="http://krcarter.github.io/img/grip8.jpg" alt="Grip8" width="400"/>
+<img src="http://krcarter.github.io/img/grip8.jpg" alt="Grip8" width="600"/>
 
-<img src="http://krcarter.github.io/img/grip9.jpg" alt="Grip9" width="400"/>
+<img src="http://krcarter.github.io/img/grip9.jpg" alt="Grip9" width="600"/>
 
 # Videos
 <br />
