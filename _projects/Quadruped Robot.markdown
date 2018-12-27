@@ -27,6 +27,7 @@ First Design: We try to have our legs actually be the sidaways "D" coupler curve
 
 ![ProtoFall1](http://krcarter.github.io/img/ProtoFall1.gif)
 
+Second Design: Close to what we wanted, but couldn't get over some obstacles well
 
 # Final Design
 <br />
