@@ -27,7 +27,7 @@ The wheels where 58mm omni-directional wheels to allow holonomic motion on top o
 # Electronics
 <br />
 
-The robot does this using on board sensing with an IMU (inertial measurement unit), beging control by an arduino mega 2560.
+To get the robot to balance I always needed the robot to know its orientation, and to do this I need to use an IMU (inertial measurement unit). My IMU of choice was the SparkFun 9Dof IMU Breakout – LSM9DS1. This board was easy to wire using its i2c protocol. Also, it measured acceleration and angular rate of change in x-y-z and roll-pitch-yaw which was perfect for mt application. The embedded board I used was an Arduino Mega 2560 it was perfect for getting the robot up and running as fast as possible. The motors were controlled by two Pololu – Dual VNH2SP30 motor driver carrier which took PWM signals and powered the motors.
 
 # Controls
 <br />
