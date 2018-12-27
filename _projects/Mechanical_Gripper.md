@@ -5,39 +5,46 @@ description: Engineering Design project
 img: /img/Design2_Gripper.jpg
 ---
 
-Project for my junior year engineering Design I class. Task was to design and build a mechanical gripper to pick up a 5 pound aluminum machined fidget spinner
+# Overview
+<br />
 
-Gripper was made out of lasered-cut acrylic, 3d-printed parts, and off the shelf hardware.
+My team worked together to build and optimized a walking robot for search and rescue operations in confined space. The robot was powered by a single motor, and legs of the robot consist of four identical four bar linkages. We designed our robot to have an animal gait mimicking a dog trot. To do this we planned for our four-bar linkage mechanism to follow a sideways “D”. In our simulation we got our desired curved close, but not exact. We wanted the coupler curve to be a sideways "D". We wanted the coupler curve to be a sideways "D" to optimize the robot time spent walking forward, and to have a curve height to overcome obstacles.
 
-<div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/img/1.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/2.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/3.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-	Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/5.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-	This image can also have a caption. It's like magic. 
-</div>
+![Coupler Curve](http://krcarter.github.io/img/biped_gif1.gif) ![Dog Trot](http://krcarter.github.io/img/biped_gif2.gif)
 
-You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.
+<img src="http://krcarter.github.io/img/LegLengths.png" alt="LegLengths" width="400"/>
 
+# Prototypes/ Renders
+<br />
 
-<div class="img_row">
-	<img class="col two" src="{{ site.baseurl }}/img/6.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/11.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-	You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+Before Getting to our final design we went through several prototype iterations.
 
+First Design: We try to have our legs actually be the sidaways "D" coupler curve that we desired.
 
-<br/><br/><br/>
+<img src="http://krcarter.github.io/img/Leg_Proto.jpg" alt="LegProto" width="300"/>
 
+<img src="http://krcarter.github.io/img/leg_proto_front.jpg" alt="LegProto_front" width="300"/>
 
-The code is simple. Just add a col class to your image, and another class specifying the width: one, two, or three columns wide. Here's the code for the last row of images above: 
+![ProtoFall1](http://krcarter.github.io/img/ProtoFall1.gif)
 
+Second Design: Close to what we wanted, but couldn't get over some obstacles well
+
+[![Sim Hills](http://krcarter.github.io/img/sim_hill.png)](https://www.youtube.com/watch?v=p1uFbjKGaWE "Hill Simulations")
+
+Third Design: This was the design we ended up settling for.
+
+<img src="http://krcarter.github.io/img/final_proto.jpg" alt="FinalProto" width="350"/> <img src="http://krcarter.github.io/img/final_curve.PNG" alt="Final_curve" width="350"/>
+
+[![Movement](http://krcarter.github.io/img/movement.png)](https://youtu.be/1SkWeLdxJeg "Movement")
+
+# Final Design
+<br />
+
+<img src="http://krcarter.github.io/img/bipedal_CAD.png" alt="bipedal_CAD" width="600"/>
+
+# Videos
+<br />
+
+[![Flat Video](http://krcarter.github.io/img/flat_vid.png)](https://www.youtube.com/watch?v=hysU-a_3a7I "Flat Video")
+
+[![Rock Video](http://krcarter.github.io/img/rock_vid.png)](https://www.youtube.com/watch?v=CIyDcqAJPAU "Rock Video")
