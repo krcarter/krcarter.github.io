@@ -39,6 +39,7 @@ To have the robot self-balance was a straight forward application of PID feedbac
 The complimentary returned a degree value which was a small angle less than 5 degrees. The error of the control was how far this value was away from zero. Tuning the PID controller I was able to get a balancing robot.
 
 <img src="http://krcarter.github.io/img/blkdiagram.png" alt="blkdiagram" width="600"/>
+
 # Awards
 <br />
 
