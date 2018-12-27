@@ -5,7 +5,6 @@ description: A self-balancing ball robot.
 img: /img/bb8_title.png
 ---
 
-## Star Wars BB8 Project
 <br />
 
 # Overview
