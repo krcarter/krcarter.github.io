@@ -24,6 +24,8 @@ The wheels where 58mm omni-directional wheels to allow holonomic motion on top o
 
 <img src="http://krcarter.github.io/img/bb8_iso.png" alt="BB8iso" width="300"/> <img src="http://krcarter.github.io/img/bb8_front.png" alt="BB8front" width="300"/>
 
+<img src="http://krcarter.github.io/img/bb8_ball.png" alt="BB8ball" width="300"/>
+
 # Electronics
 <br />
 
@@ -32,6 +34,11 @@ To get the robot to balance I always needed the robot to know its orientation, a
 # Controls
 <br />
 
+To have the robot self-balance was a straight forward application of PID feedback control. I sampled the robot orientation from the IMU every 10 ms along the roll and pitch axis from the gyroscope and accelerometer. I needed both gyroscope and accelerometer data because even though the gyroscope was accurate its data slipped over time. The accelerometer could not be used by itself because there was a lot of noise coming from every little force the accelerometer experience. To combine both sensing devices I used a complementary filter. The complementary filter uses 98% of the gyro data and 2% of the accelerometer data to stop drifting. You can read more about it [here](http://www.pieter-jan.com/node/11). 
+
+The complimentary returned a degree value which was a small angle less than 5 degrees. The error of the control was how far this value was away from zero. Tuning the PID controller I was able to get a balancing robot.
+
+<img src="http://krcarter.github.io/img/blkdiagram.png" alt="blkdiagram" width="600"/>
 # Awards
 <br />
 
