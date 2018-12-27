@@ -25,19 +25,24 @@ We compiled the suggestions from the survey, identified similarities/trends, and
 
 To assure the success and have an understanding of the difficulty of the project we did a lot of prototyping. We broke the prototyping into five subassemblies: storage, handling, extended stations, stirring, and shaking. Below are early renders of what we thought each system would look like during our preliminary design review.
 
-<img src="http://krcarter.github.io/img/ct7.png" alt="ct7" width="500"/>
+<img src="http://krcarter.github.io/img/ct7.png" alt="ct7" width="500"/>  
+
 Early Render
 
-<img src="http://krcarter.github.io/img/ct10.png" alt="ct10" width="600"/> 
+<img src="http://krcarter.github.io/img/ct10.png" alt="ct10" width="600"/>  
+
 Left: Handling system Right: Extended Station: System
 
-<img src="http://krcarter.github.io/img/ct8.PNG" alt="ct8" width="300"/> 
+<img src="http://krcarter.github.io/img/ct8.PNG" alt="ct8" width="300"/>   
+
 Shaking
 
-<img src="http://krcarter.github.io/img/ct12.png" alt="ct12" width="300"/> 
+<img src="http://krcarter.github.io/img/ct12.png" alt="ct12" width="300"/>    
+
 Stirring
 
-<img src="http://krcarter.github.io/img/ct9.png" alt="ct9" width="300"/>
+<img src="http://krcarter.github.io/img/ct9.png" alt="ct9" width="300"/>     
+
 Storage
 
 
