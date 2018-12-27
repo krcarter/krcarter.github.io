@@ -15,8 +15,7 @@ The projects was greatly inspired by youtuber [James Bruton](https://www.youtube
 
 # Chassis
 
-/img/bb8_iso.png
-Reference-style: /img/bb8_iso.png
+![Image of BB8 Iso](https://krcarter.github.com/img/bb8_iso.png)
 
 # Electronics
 
