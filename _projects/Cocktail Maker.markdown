@@ -29,7 +29,7 @@ To assure the success and have an understanding of the difficulty of the project
 
 Early Render
 
-<img src="http://krcarter.github.io/img/ct8.PNG" alt="ct8" width="300"/> <img src="http://krcarter.github.io/img/ct9.png" alt="ct9" width="300"/>
+<img src="http://krcarter.github.io/img/ct8.PNG" alt="ct8" width="300" height="200"/> <img src="http://krcarter.github.io/img/ct9.png" alt="ct9" width="300"/>
 
 Left: Shaking Right: Storage
 
