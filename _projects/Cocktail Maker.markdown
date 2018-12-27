@@ -28,7 +28,7 @@ To assure the success and have an understanding of the difficulty of the project
 <img src="http://krcarter.github.io/img/ct7.png" alt="ct7" width="500"/>
 Early Render
 
-<img src="http://krcarter.github.io/img/ct10.PNG" alt="ct10" width="600"/> 
+<img src="http://krcarter.github.io/img/ct10.png" alt="ct10" width="600"/> 
 Left: Handling system Right: Extended Station: System
 
 <img src="http://krcarter.github.io/img/ct8.PNG" alt="ct8" width="300"/> 
@@ -53,5 +53,6 @@ Storage
 
 <img src="http://krcarter.github.io/img/ct11.png" alt="ct11" width="600"/>
 Final Render
+
 # Videos
 <br />
