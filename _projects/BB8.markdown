@@ -22,7 +22,7 @@ The chassis was designed with three levels one for the mounting of the motor mou
 
 The wheels where 58mm omni-directional wheels to allow holonomic motion on top of the ball. I used four omniwheels instead of possibly three because the math would be easier, and would be simpler to control. Drive motors where 100:1 918d MFA como drill motors that gave a good balance of speed, needed to be fast enough to react to falling, and torque, needed to have enough force to move ball and robot.
 
-<img src="http://krcarter.github.io/img/bb8_iso.png" alt="BB8iso" width="400"/> <img src="http://krcarter.github.io/img/bb8_front.png" alt="BB8front" width="400"/>
+<img src="http://krcarter.github.io/img/bb8_iso.png" alt="BB8iso" width="300"/> <img src="http://krcarter.github.io/img/bb8_front.png" alt="BB8front" width="300"/>
 
 # Electronics
 <br />
