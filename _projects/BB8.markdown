@@ -18,12 +18,19 @@ The projects was greatly inspired by youtuber [James Bruton](https://www.youtube
 # Chassis
 <br />
 
-<img src="http://krcarter.github.io/img/bb8_iso.png" alt="BB8iso" width="400"/>
+The chassis was designed with three levels one for the mounting of the motor mounts, another for wiring to the electronics, and the top where the electronics where stored. Each level was made from 1/8" acrylic sheets which could be quickly iterated on with a laser cutter. The acrylic sheets where attach with aluminum standoffs, for if something needed to be reach or changed it can be quickly be done with loosening some bolts. The motor mounts were 3d printed on an Ultimaker and attached with a 2-1/2” long bolt.  
+
+The wheels where 58mm omni-directional wheels to allow holonomic motion on top of the ball. I used four omniwheels instead of possibly three because the math would be easier, and would be simpler to control. Drive motors where 100:1 918d MFA como drill motors that gave a good balance of speed, needed to be fast enough to react to falling, and torque, needed to have enough force to move ball and robot.
+
+<img src="http://krcarter.github.io/img/bb8_iso.png" alt="BB8iso" width="400"/> <img src="http://krcarter.github.io/img/bb8_front.png" alt="BB8front" width="400"/>
 
 # Electronics
 <br />
 
 The robot does this using on board sensing with an IMU (inertial measurement unit), beging control by an arduino mega 2560.
+
+# Controls
+<br />
 
 # Awards
 <br />
