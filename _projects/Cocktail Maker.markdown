@@ -76,3 +76,5 @@ Final Render
 
 # Videos
 <br />
+
+[![Cocktail Video](http://krcarter.github.io/img/ct_video.png)](https://www.youtube.com/watch?v=aB5tdN-eGJE&feature=youtu.be "Cocktail")
