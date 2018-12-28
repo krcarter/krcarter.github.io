@@ -8,7 +8,7 @@ img: /img/Design2_Gripper.jpg
 # Overview
 <br />
 
-For my engineering desing 1 class we made a gripper that objective was to hold onto a 2lb fidget spinner. The gripper had to with a high dynamic load while being as light as possible.
+For my engineering design 1 class we made a gripper that objective was to hold onto a 2lb fidget spinner. The gripper had to with a high dynamic load while being as light as possible.
 
 Structurally, the gripper consists of two plates connected by three rigid rods.  The top plate serves as the interface between the robot wrist and the gripper, and also as the mounting for the mechanisms to close the gripper.  The bottom plate serves as the mounting point for the 3-pronged gripper claw.  The claw is an assembly comprised of three “fingers” that rotate around blocks attached to the bottom plate. The fingers are kept at an open angle by springs.  Each finger is kinked slightly, forming a knuckle.  A high friction gripping pad is attached to the fingertips to grip the fidget spinner at the tapered curves in the center.
 
