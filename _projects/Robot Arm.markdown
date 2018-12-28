@@ -18,6 +18,7 @@ For 16-384 Robot Kinematics and Dynamics my final capstone project was to progra
 6. 3D Inverse Kinematics - Analytical/Numerical
 7. Robot Control using Trajectories in 3D
 
+<img src="http://krcarter.github.io/img/arm1.png" alt="arm1" width="500"/>
 
 # Robot Schematics
 <br />
