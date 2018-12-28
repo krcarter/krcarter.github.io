@@ -43,6 +43,3 @@ A lot of the prototyping we did was optimizing the fingers to grab the fidget sp
 
 <img src="http://krcarter.github.io/img/grip9.jpg" alt="Grip9" width="600"/>
 
-# Videos
-<br />
-
