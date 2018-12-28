@@ -26,3 +26,7 @@ For 16-384 Robot Kinematics and Dynamics my final capstone project was to progra
 <img src="http://krcarter.github.io/img/arm2.png" alt="arm2" width="400"/>
 
 <img src="http://krcarter.github.io/img/arm4.png" alt="arm4" width="400"/>
+
+# Video
+<br />
+
