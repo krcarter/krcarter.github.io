@@ -26,11 +26,15 @@ We chose this design because it is simple and minimizes mass. Cables are lighter
 # Prototype Designs
 <br />
 
-<img src="http://krcarter.github.io/img/grip4.png" alt="Grip4" width="300"/> <img src="http://krcarter.github.io/img/grip5.png" alt="Grip5" width="300"/>
+A lot of the prototyping we did was optimizing the fingers to grab the fidget spinner.
 
-<img src="http://krcarter.github.io/img/grip3.png" alt="Grip3" width="400"/>
+<img src="http://krcarter.github.io/img/grip4.png" alt="Grip4" width="300"/> 
+
+<img src="http://krcarter.github.io/img/grip5.png" alt="Grip5" width="300"/>
 
 <img src="http://krcarter.github.io/img/grip6.png" alt="Grip6" width="300"/> <img src="http://krcarter.github.io/img/grip7.png" alt="Grip7" width="300"/>
+
+<img src="http://krcarter.github.io/img/grip3.png" alt="Grip3" width="400"/>
 
 # Final Prototype Design
 <br />
