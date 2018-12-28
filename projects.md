@@ -4,6 +4,8 @@ title: Projects
 permalink: /projects/
 ---
 
+Here are a few of my projects I have work on over the years. These projects are from classes I have taken, programs that I have been a part of, and personal hobby projects that I have undertaken.
+
 {% for project in site.projects %}
 
 <div class="project ">
