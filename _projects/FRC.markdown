@@ -22,6 +22,8 @@ During high school I had the pleasure of being part of FIRST robotics through te
 # 2013
 <br />
 
+<img src="http://krcarter.github.io/img/frc8.jpg" alt="frc8" width="600"/>
+
 # 2014
 <br />
 
