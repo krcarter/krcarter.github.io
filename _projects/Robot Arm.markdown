@@ -20,6 +20,7 @@ For 16-384 Robot Kinematics and Dynamics my final capstone project was to progra
 
 
 # Robot Schematics
+<br />
 
 <img src="http://krcarter.github.io/img/arm2.png" alt="arm2" width="400"/>
 
