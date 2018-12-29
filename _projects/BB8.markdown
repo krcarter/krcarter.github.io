@@ -41,6 +41,10 @@ The complimentary returned a degree value which was a small angle less than 5 de
 
 <img src="http://krcarter.github.io/img/blkdiagram.png" alt="blkdiagram" width="600"/>
 
+# Video
+ 
+[![BB8 Video](http://krcarter.github.io/img/bb8_vid.png)](https://www.youtube.com/watch?v=XHlT6x91uZo "BB8_Video")
+
 # Awards
 <br />
 
@@ -48,4 +52,3 @@ For the work we did we won two awards:
 
 1. Lockheed Martin Innovation Award
 2. Rockwell Automation Award
-
