@@ -43,8 +43,8 @@ The complimentary returned a degree value which was a small angle less than 5 de
 
 # Video
  
-[![BB8 Video](http://krcarter.github.io/img/bb8_vid.png)](https://www.youtube.com/watch?v=XHlT6x91uZo "BB8_Video")
-
+ <iframe width="800" height="533" src="https://www.youtube.com/embed/XHlT6x91uZo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
 # Awards
 <br />
 
