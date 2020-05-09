@@ -13,6 +13,7 @@ This was my capstone project for my senior year of undergrad at Carnegie Mellon 
 This project focuses on building a household automated cocktail machine that makes drinks from the original liquid ingredients. Currently, similar devices either use prepackaged cocktail mixes or are still in development and cost at least $300 to pre-order. Making cocktails can be time-consuming and imprecise, particularly when done at home. Automating this process can reduce time spent away from guest at parties and allow people to control exactly what is in their drink. The Design challenge was to create a system that could pour, stir, and shake drinks quickly and accurately.
 
 # Customer Needs
+<br />
 
 We compiled the suggestions from the survey, identified similarities/trends, and converted the vague needs to comprehensible customer needs. As a design team, we also added customer needs that we felt were important to its functionality as a household appliance, such as some of the safety and general needs. Below are two tables: one is a chart of our customer needs, and the other is the objective tree for our customer needs.
 
