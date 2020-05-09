@@ -45,6 +45,8 @@ Third Design: This was the design we ended up settling for.
 # Videos
 <br />
 
-[![Flat Video](http://krcarter.github.io/img/flat_vid.png)](https://www.youtube.com/watch?v=hysU-a_3a7I "Flat Video")
+<iframe width="800" height="533" src="https://www.youtube.com/embed/hysU-a_3a7I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[![Rock Video](http://krcarter.github.io/img/rock_vid.png)](https://www.youtube.com/watch?v=CIyDcqAJPAU "Rock Video")
+<br />
+
+<iframe width="800" height="533" src="https://www.youtube.com/embed/CIyDcqAJPAU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
