@@ -30,4 +30,4 @@ For 16-384 Robot Kinematics and Dynamics my final capstone project was to progra
 # Video
 <br />
 
-[![Robot KD](http://krcarter.github.io/img/arm6.png)](https://www.youtube.com/watch?v=_mGlmlgLDaU&feature=youtu.be "Robot Arm")
+<iframe width="800" height="533" src="https://www.youtube.com/embed/_mGlmlgLDaU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
