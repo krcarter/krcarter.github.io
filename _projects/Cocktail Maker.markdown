@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cocktail Maker - Captsone
+title: Cocktail Maker - Captstone
 description: Pour-Shake-Stir Drinks
 img: /img/ct_thumbnail.png
 ---
