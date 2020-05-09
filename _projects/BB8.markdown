@@ -42,7 +42,9 @@ The complimentary returned a degree value which was a small angle less than 5 de
 <img src="http://krcarter.github.io/img/blkdiagram.png" alt="blkdiagram" width="600"/>
 
 # Video
- 
+ <br />
+
+
  <iframe width="800" height="533" src="https://www.youtube.com/embed/XHlT6x91uZo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
 # Awards
