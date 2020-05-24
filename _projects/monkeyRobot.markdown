@@ -19,6 +19,12 @@ To effectively change the moment of inertia of our robot, we decided to create a
 
 Our robot was designed using polycarbonate square tubing for the frame with Dynamixel AX-18A motors connecting the three links. The tubing at the top of the upper link allows the robot to smoothly rotate around the bar of the test stand. The test stand has PTFE tubing between its bar and the robot, creating a very low-friction connection and allowing the robot to closely match our simulated trajectories. To maximize the robot’s ability to change its moment of inertia about the bar, we wanted to maximize the mass in the lower tail of the robot. To do this, we placed the battery at the bottom of the robot and minimized the mass in all other components of the robot. We were able to have more than 40% of the mass of the robot in its bottom link. For all optimization processes see individual technical contributions. The final mass of the robot is 553 g. In the two-link configuration, the robot can reduce its moment of inertia by at most 74%. In the three-link configuration, the robot can reduce its moment of inertia by 85%.
 
+# Electronics
+<br />
+
+<img src="http://krcarter.github.io/img/monkeyElectronics.png" alt="monkeyElectronics" width="980"/>
+
+
 # Project Video
 <br />
 
