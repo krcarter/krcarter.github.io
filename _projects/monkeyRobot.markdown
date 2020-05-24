@@ -5,6 +5,8 @@ description: A swinging monkey Robot.
 img: /img/funkeyMonkey_title.png
 ---
 
+<img src="http://krcarter.github.io/img/funkeyMonkey_title.png" alt="funkyMonkeyTitle" width="644"/>
+
 # Abstract
 <br />
 
