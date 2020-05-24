@@ -1,7 +1,6 @@
-
 ---
 layout: post
-title: The Funky Monkey
+title: The Funkey Monkey
 description: A swinging monkey Robot.
 img: /img/funkeyMonkey_title.png
 ---
