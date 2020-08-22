@@ -22,7 +22,7 @@ The base design was design to be an inverse mouse ball mechanism where rollers d
 # Upper Body
 <br />
 
-<img src="http://krcarter.github.io/img/miniUpperReal.jpg" alt="miniUpper" width="300"/> <img src="http://krcarter.github.io/img/miniUpperCAD.png" alt="miniUpperCAD" width="300"/>
+<img src="http://krcarter.github.io/img/miniUpperReal.jpg" alt="miniUpper" width="300" height ="500"/> <img src="http://krcarter.github.io/img/miniUpperCAD.png" alt="miniUpperCAD" width="300" height ="500"/>
 
 # Video
 
