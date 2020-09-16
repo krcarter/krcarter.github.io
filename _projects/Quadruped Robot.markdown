@@ -35,7 +35,7 @@ Third Design: This was the design we ended up settling for.
 
 <img src="http://krcarter.github.io/img/final_proto.jpg" alt="FinalProto" width="350"/> <img src="http://krcarter.github.io/img/final_curve.PNG" alt="Final_curve" width="350"/>
 
-[![Movement](http://krcarter.github.io/img/movement.png)](https://youtu.be/1SkWeLdxJeg "Movement")
+<iframe width="800" height="533" src="https://www.youtube.com/embed/1SkWeLdxJeg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Final Design
 <br />
