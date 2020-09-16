@@ -16,7 +16,7 @@ So as a team we set out to design a project that would be small and portable to 
 
 <img src="http://krcarter.github.io/img/Example_Structure.JPG" alt="exampleStructure" width="600"/>
 
-<img src="http://krcarter.github.io/img/kidsDemo.png" alt="kidsDemo" width="300"/>
+<img src="http://krcarter.github.io/img/kidsDemo.png" alt="kidsDemo" width="600"/>
 
 
 # Video
