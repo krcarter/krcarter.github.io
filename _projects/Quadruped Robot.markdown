@@ -29,7 +29,7 @@ First Design: We try to have our legs actually be the sidaways "D" coupler curve
 
 Second Design: Close to what we wanted, but couldn't get over some obstacles well
 
-[![Sim Hills](http://krcarter.github.io/img/sim_hill.png)](https://www.youtube.com/watch?v=p1uFbjKGaWE "Hill Simulations")
+<iframe width="800" height="533" src="https://www.youtube.com/embed/p1uFbjKGaWE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Third Design: This was the design we ended up settling for.
 
