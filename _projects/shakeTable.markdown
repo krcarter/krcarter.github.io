@@ -12,9 +12,9 @@ For Carnegie Mellon’s Rapid Prototype Design (39-245) class myself and two oth
 
 So as a team we set out to design a project that would be small and portable to fit in a shoebox, but still interest students. After initial deliberation we went with the idea of a shake table that could simulate an earthquake because kids love to see things break. However, not only will kids be able to break thins they will be able to understand how seismic activity works and how exciting structures in different ways lead to different results.
 
-<img src="http://krcarter.github.io/img/Shake_table_CADrender.JPG" alt="shakeTable" width="300"/>
+<img src="http://krcarter.github.io/img/Shake_table_CADrender.JPG" alt="shakeTable" width="600"/>
 
-<img src="http://krcarter.github.io/img/Example_Structure.JPG" alt="exampleStructure" width="300"/>
+<img src="http://krcarter.github.io/img/Example_Structure.JPG" alt="exampleStructure" width="600"/>
 
 <img src="http://krcarter.github.io/img/kidsDemo.png" alt="kidsDemo" width="300"/>
 
