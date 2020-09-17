@@ -12,6 +12,18 @@ For Carnegie Mellon’s Rapid Prototype Design (39-245) class myself and two oth
 
 So as a team we set out to design a project that would be small and portable to fit in a shoebox, but still interest students. After initial deliberation we went with the idea of a shake table that could simulate an earthquake because kids love to see things break. However, not only will kids be able to break thins they will be able to understand how seismic activity works and how exciting structures in different ways lead to different results.
 
+
+# Prototype
+<br />
+
+To prototype our design idea, we used very simple materials just to test if our overall design would work. We tested the idea of using rubber bands which are cheap, easily disposable, and easy for young children to understand. To shake the table, we used a cheap DC motor and 2 AA batteries, and attached an unbalanced mass to excite the oscillation. 
+
+<img src="http://krcarter.github.io/img/early_table.JPG" alt="shakeTable" width="400" height = "533/>
+
+# Final Design
+
+
+
 <img src="http://krcarter.github.io/img/Shake_table_CADrender.JPG" alt="shakeTable" width="600"/>
 
 <img src="http://krcarter.github.io/img/Example_Structure.JPG" alt="exampleStructure" width="600"/>
