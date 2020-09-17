@@ -18,7 +18,7 @@ So as a team we set out to design a project that would be small and portable to 
 
 To prototype our design idea, we used very simple materials just to test if our overall design would work. We tested the idea of using rubber bands which are cheap, easily disposable, and easy for young children to understand. To shake the table, we used a cheap DC motor and 2 AA batteries, and attached an unbalanced mass to excite the oscillation. 
 
-<img src="http://krcarter.github.io/img/early_table.JPG" alt="shakeTable" width="400" height = "533"/>
+<img src="http://krcarter.github.io/img/early_table.jpeg" alt="shakeTable" width="400" height = "533"/>
 
 # Final Design
 
