@@ -31,7 +31,4 @@ For the final design we went from using our cardboard box design to manufacturin
 <img src="http://krcarter.github.io/img/kidsDemo.png" alt="kidsDemo" width="600"/>
 
 
-# Video
- <br />
-
 
