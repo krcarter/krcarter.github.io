@@ -37,7 +37,7 @@ When it comes to robotics simulation software there is not that may readily avai
 <iframe width="800" height="533" src="https://www.youtube.com/embed/knAJdp4KJec" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <p align="center">
-  <img src="http://krcarter.github.io/img/limitCycleFront.png" alt="limit Cycle Front" width="800"/>
+  <img src="http://krcarter.github.io/img/wobblyStates.png" alt="wobbly States" width="800"/>
 </p>
 
 <p align="center">
@@ -45,9 +45,8 @@ This figure is the robot states roll,pitch, and yaw.
 </p>
 
 <p align="center">
-  <img src="http://krcarter.github.io/img/wobblyStates.png" alt="wobbly States" width="800"/>
+  <img src="http://krcarter.github.io/img/limitCycleFront.png" alt="limit Cycle Front" width="800"/>
 </p>
-
 
 <p align="center">
 This figure is the state space plot of the resulting limit cycle.
