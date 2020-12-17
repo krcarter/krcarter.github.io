@@ -9,5 +9,8 @@ I am very interested in studying legged locomotion, and more specifically bipeda
 
 <p align="center">
   <img src="http://krcarter.github.io/img/passive.png" alt="passive Walking" width="400"/>
-  Garcia, Mariano, et al. "The simplest walking model: stability, complexity, and scaling." (1998): 281-288.
+</p>
+
+<p align="center">
+Garcia, Mariano, et al. "The simplest walking model: stability, complexity, and scaling." (1998): 281-288.
 </p>
