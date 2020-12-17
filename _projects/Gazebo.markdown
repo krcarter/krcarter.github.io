@@ -5,7 +5,7 @@ description: Powered Passive Walking Simulator
 img: /img/wobblyB.png
 ---
 
-I am very interested in studying legged locomotion, and more specifically bipedal legged locomotion. One of the earliest and simplest paradigms to studying legged locomotion is studying the passive dynamic model that was established in the 80s by Professor Tad McGeer. This model of walking breaks the walking problem to its simplest form. Later, the compass-gait model of walking studied by Professor Andy Ruina at Cornell established a model where walking was an energy conservation between a robot’s stance and swing leg walking down a ramp.
+I am very interested in studying legged locomotion, and more specifically bipedal legged locomotion. One of the earliest and simplest paradigms to studying legged locomotion is studying the passive dynamic model that was established in the 80s by Professor Tad McGeer. This model of walking breaks the walking problem to its simplest form. Later, the compass-gait model of walking studied by Professor Andy Ruina at Cornell established a model where walking was an energy conservation between a robot’s stance and swing leg walking down a ramp. To learn more read about [Passive Dynamic Walking](https://en.wikipedia.org/wiki/Passive_dynamics) on Wikipedia
 
 <p align="center">
   <img src="http://krcarter.github.io/img/passive.png" alt="passive Walking" width="400"/>
@@ -13,4 +13,10 @@ I am very interested in studying legged locomotion, and more specifically bipeda
 
 <p align="center">
 Garcia, Mariano, et al. "The simplest walking model: stability, complexity, and scaling." (1998): 281-288.
+</p>
+
+To begin my exploration of this kind of walking I used a simple model of a walking toy with 2 legs that was able to walk down a slope ramp without any actuation. This walker was name [Wobbly](https://en.wikipedia.org/wiki/Passive_dynamics), and could be found on Thingiverse
+
+<p align="center">
+  <img src="http://krcarter.github.io/img/wobblyGif.gif" alt="passive Walking" width="400"/>
 </p>
