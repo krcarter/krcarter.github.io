@@ -32,7 +32,7 @@ To begin my exploration of this kind of walking I used a simple model of a walki
 # My Gazebo Simulation
 <br />
 
-When it comes to robotics simulation software there is not that may readily available and have sophisticated enough physics engine to solve the constraints properly. So, I had a few options use a full body software like Webots or Gazebo or use Matlab and set up the simulation environment myself. I chose to use Gazebo since it easy to install in Linux and, I wouldn’t have to do the painstaking task of solving the hybrid transition states. 
+When it comes to robotics simulation software there is not that many readily available and have sophisticated enough physics engine to solve the constraints properly. So, I had a few options use a full body software like Webots or Gazebo or use Matlab and set up the simulation environment myself. I chose to use Gazebo since it easy to install in Linux and, I wouldn’t have to do the painstaking task of solving the hybrid transition states. 
 
 <iframe width="800" height="533" src="https://www.youtube.com/embed/knAJdp4KJec" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -51,3 +51,6 @@ This figure is the robot states roll,pitch, and yaw.
 <p align="center">
 This figure is the state space plot of the resulting limit cycle.
 </p>
+
+I was really impressed by Gazebo’s ability to accurately simulate the passive dynamics and rock back and forth. However, there was random scuffing of the walker after some amount of time that can be seen around the 8 second mark in the roll state. This might have been due to the ODE solver breaking down after a certain amount of time. In the limit cycle plot you could see the robot reach a steady state cycle.
+
