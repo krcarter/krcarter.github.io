@@ -13,11 +13,9 @@ I am very interested in studying legged locomotion, and more specifically bipeda
 <p align="center">
   <img src="http://krcarter.github.io/img/passive.png" alt="passive Walking" width="400"/>
 </p>
-
 <p align="center">
 Garcia, Mariano, et al. "The simplest walking model: stability, complexity, and scaling." (1998): 281-288.
 </p>
-
 
 # Simple Walking Model
 <br />
@@ -39,18 +37,14 @@ When it comes to robotics simulation software there is not that many readily ava
 <p align="center">
   <img src="http://krcarter.github.io/img/wobblyStates.png" alt="wobbly States" width="800"/>
 </p>
-
 <p align="center">
 This figure is the robot states roll,pitch, and yaw.
 </p>
-
 <p align="center">
   <img src="http://krcarter.github.io/img/limitCycleFront.png" alt="limit Cycle Front" width="800"/>
 </p>
-
 <p align="center">
 This figure is the state space plot of the resulting limit cycle.
 </p>
-
 I was really impressed by Gazebo’s ability to accurately simulate the passive dynamics and rock back and forth. However, there was random scuffing of the walker after some amount of time that can be seen around the 8 second mark in the roll state. This might have been due to the ODE solver breaking down after a certain amount of time. In the limit cycle plot you could see the robot reach a steady state cycle.
 
