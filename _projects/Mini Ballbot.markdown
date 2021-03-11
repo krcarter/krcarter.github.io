@@ -24,7 +24,7 @@ The base design was design to be an inverse mouse ball mechanism where rollers d
 
 The upper body is where all the electronics went. To easily create mounting plates we used threaded rods, and this made it easy to attach additional acrylic lasered cut plates to mount the electronics. You will notice that 2 12-volt NiMH batteries are mounted on the very top plate. This was to increase the moment inertia of the pendulum body, for the system will have more time to correct for small disturbances. The rest of the electronics consisted of a simple Arduino Uno, Raspberry Pi for computer vision, and an onboard IMU. 
 
-<img src="http://krcarter.github.io/img/miniUpperReal.jpg" alt="miniUpper" width="300" height ="500"/> <img src="http://krcarter.github.io/img/ballBotIso.png" alt="miniUpperCAD" width="300" height ="500"/>
+<img src="http://krcarter.github.io/img/miniUpperReal.jpg" alt="miniUpper" width="300" height ="500"/> <img src="http://krcarter.github.io/img/tallBallbot.png" alt="miniUpperCAD" width="300" height ="500"/>
 
 # Video
 
