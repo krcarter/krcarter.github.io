@@ -3,9 +3,9 @@ layout: page
 title: Resume
 permalink: /resume/
 ---
-Last Updated: September 2020
+Last Updated: March 2021
 
-<img src="http://krcarter.github.io/img/krcarter_resume.png" alt="resume" width="807" height="1059"/>
+<img src="http://krcarter.github.io/img/Carter_Kamal_resume_latex.png" alt="resume" width="1700" height="2200"/>
 
 <object data="http://krcarter.github.io/img/Carter_Kamal_resume_latex.pdf" width="700px" height="700px">
     <embed src="http://krcarter.github.io/img/Carter_Kamal_resume_latex.pdf">
