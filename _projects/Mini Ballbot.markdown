@@ -28,10 +28,10 @@ The upper body is where all the electronics went. To easily create mounting plat
 
 # Video
 
-Balancing
+**Balancing**
 
 <iframe width="800" height="533" src="https://www.youtube.com/embed/D2wQ3jEPfwY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Assembly
+**Assembly**
 
 <iframe width="800" height="533" src="https://www.youtube.com/embed/geEv4d49hWU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
