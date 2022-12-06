@@ -12,6 +12,16 @@ Spring  2019 capstone project for 16-264 Humanoids Class at Carnegie Mellon Univ
 
 The projects was greatly inspired by [Ballbot](https://www.youtube.com/watch?v=8BtDuzu2WeI) a humanoid size robot made in CMU's Microdynamic Systems Laboratory. Instead of balancing on a ball with a 200mm (7.87 inches) diameter we built our robot to balance on a smaller ball with a 95mm (3.75 inches) diameter.
 
+# Video
+
+**Balancing**
+
+<iframe width="800" height="533" src="https://www.youtube.com/embed/D2wQ3jEPfwY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Assembly**
+
+<iframe width="800" height="533" src="https://www.youtube.com/embed/BM998hw8f84" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # Base Design
 <br />
 
