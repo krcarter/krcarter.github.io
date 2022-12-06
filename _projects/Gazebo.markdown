@@ -2,7 +2,7 @@
 layout: post
 title: Research - Gazebo
 description: Powered Passive Walking Simulator
-img: /img/wobblyB.png
+img: Passive_Dynamic_Walker_in_Gazebo_Simulation.gif
 ---
 
 # Overview
