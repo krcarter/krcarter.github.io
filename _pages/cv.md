@@ -7,53 +7,48 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<> {% include base_path %}
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mechanical Engineering, Carnegie Mellon University, 2019
+* M.S. in Mechanical Engineering, Carnegie Mellon University University, 2021
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2021-2023: HEBI Robotics: Applications and Sales Engineer
+  * Designed custom robotics solutions in Python to support customer's needs
+  * Lead robotics demos for conferences and webinars
+  * Maintain documentation and manual for robotics solutions
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2019-2021: Graduate Research Assistant
+  * Lead the design of a novel, small, 3D printed bipedal legged robot inspired by passive dynamic walking
+  * Simulated robot using ROS and Gazebo to model complex robot walking behaviors
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Software
+  * Python (Proficient)
+  * Matlab (Proficient)
+  * C++ (Competent)
+* Mechanical Engineering
+  * Soliworks
+  * Creo
+  * Fusion 360
+  * Ansys
+
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  * [Scalable Minimally Actuated Leg Extension Bipedal Walker Based on 3D Passive Dynamics](https://www.youtube.com/watch?v=kECAdJEaJlk)
+    * Authors: Sharfin Islam, Kamal Carter, Justin Yim, James Kyle, Sarah Bergbreiter, Aaron M Johnson
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  * 24-671 - Electromechanical System Design Course - Graduate
+  * 24-352 - Dynamics Systems and Control - Undergraduate
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Mentor local FRC & FTC teams
