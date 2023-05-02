@@ -1,7 +1,8 @@
 ---
-layout: page
-title: Projects
+layout: archive
+title: "Projects"
 permalink: /projects/
+author_profile: true
 ---
 
 Here are a few of my projects I have work on over the years. These projects are from work, classes, or personal hobby projects.
@@ -15,3 +16,9 @@ I helped onboard customers with our inspection robots, run demo using Python, an
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RyusD0KFCp8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <hr style="height:3px;border-width:0;color:gray;background-color:gray">
+
+## ROS/GAZEBO - Passive Walking Simulation
+
+For my graduate research study I deployed a working simulation of a simple passive dynamic walking. Modeling rigid bodies and real world friction parameters.
+
+<iframe width="800" height="533" src="https://www.youtube.com/embed/knAJdp4KJec" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
