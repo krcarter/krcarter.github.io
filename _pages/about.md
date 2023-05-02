@@ -16,14 +16,11 @@ In addition to my work in engineering, I am also an avid creator of robotics vid
 
 Overall, I am a dedicated and experienced engineer with a passion for robotics and mechatronics. I am always looking for new opportunities to learn and grow, and am excited to see where my career takes me next.
 
-
-
 Work Experience
 ======
-- HEBI - Applications and Sales Engineer - 2021 - Present
-- CMU - Graduate Student Researcher 2019 @ Robomechanics Lab 2019-2021
-- DRAPER - Insutrumentation Engineer Intern
-
+* 2021-Present: HEBI Robotics: Applications and Sales Engineer
+* 2019-2021: Graduate Research Assistant
+* Summer 2018: DRAPER Instrumentation Engineering Intern
 
 Education
 ======

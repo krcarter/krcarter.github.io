@@ -1,7 +1,7 @@
 ---
-layout: post
 title: Research - Gazebo
-description: Powered Passive Walking Simulator
+excerpt: Powered Passive Walking Simulator
+collection: projects
 img: /img/Passive_Dynamic_Walker_in_Gazebo_Simulation.gif
 ---
 
