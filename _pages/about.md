@@ -18,7 +18,7 @@ Overall, I am a dedicated and experienced engineer with a passion for robotics a
 
 
 
-Career
+Work Experience
 ======
 - HEBI - Applications and Sales Engineer - 2021 - Present
 - CMU - Graduate Student Researcher 2019 @ Robomechanics Lab 2019-2021

@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<> {% include base_path %}
+{% include base_path %}
 
 Education
 ======
@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-* 2021-2023: HEBI Robotics: Applications and Sales Engineer
+* 2021-Present: HEBI Robotics: Applications and Sales Engineer
   * Designed custom robotics solutions in Python to support customer's needs
   * Lead robotics demos for conferences and webinars
   * Maintain documentation and manual for robotics solutions
