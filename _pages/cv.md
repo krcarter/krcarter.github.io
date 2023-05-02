@@ -28,7 +28,7 @@ Work experience
 Skills
 ======
 * Software
-  * Python (Proficient)
+  * Python My (My favorite language!) (Proficient)
   * Matlab (Proficient)
   * C++ (Competent)
 * Mechanical Engineering
