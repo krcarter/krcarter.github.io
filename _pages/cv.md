@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Mechanical Engineering, Carnegie Mellon University, 2019
-* M.S. in Mechanical Engineering, Carnegie Mellon University University, 2021
+* M.S. in Mechanical Engineering, Carnegie Mellon University, 2021
 
 Work experience
 ======
