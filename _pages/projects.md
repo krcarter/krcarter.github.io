@@ -22,3 +22,12 @@ I helped onboard customers with our inspection robots, run demo using Python, an
 For my graduate research study I deployed a working simulation of a simple passive dynamic walking. Modeling rigid bodies and real world friction parameters.
 
 <iframe width="800" height="533" src="https://www.youtube.com/embed/knAJdp4KJec" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Python/Computer Vision - Robot Aimbot
+
+For a personal project of mine, I made a physical robot that moved a mouse around to shoot targets on the screen. The robot moved using knowledge of where the targets were on the screen and then doing PID control to send a velocity command to the motors.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kUZL0DDYUl0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
