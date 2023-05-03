@@ -23,6 +23,8 @@ For my graduate research study I deployed a working simulation of a simple passi
 
 <iframe width="800" height="533" src="https://www.youtube.com/embed/knAJdp4KJec" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<hr style="height:3px;border-width:0;color:gray;background-color:gray">
+
 ## Python/Computer Vision - Robot Aimbot
 
 For a personal project of mine, I made a physical robot that moved a mouse around to shoot targets on the screen. The robot moved using knowledge of where the targets were on the screen and then doing PID control to send a velocity command to the motors.
