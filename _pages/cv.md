@@ -48,6 +48,11 @@ Teaching
 ======
   * 24-671 - Electromechanical System Design Course - Graduate
   * 24-352 - Dynamics Systems and Control - Undergraduate
+
+Awards
+======
+  * ICRA 2022 - Outstanding Locomotion paper finalist
+  * 2019 GEM Fellowship
   
 Service and leadership
 ======
