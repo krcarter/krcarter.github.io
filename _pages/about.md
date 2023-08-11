@@ -25,5 +25,5 @@ Work Experience
 Education
 ======
 
-I received my Bachelor of Science in Mechanical Engineering degree from Carnegie Mellon University with minors in Robotics in 2019. I received my Masters of Science in Mechanical Engineering degree from Carnegie Mellon University 2021. 
+I received my Bachelor of Science in Mechanical Engineering degree from Carnegie Mellon University a minor in Robotics in 2019. I received my Masters of Science in Mechanical Engineering degree from Carnegie Mellon University 2021. 
 
