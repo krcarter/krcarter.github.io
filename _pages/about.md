@@ -18,7 +18,8 @@ Overall, I am a dedicated and experienced engineer with a passion for robotics a
 
 Work Experience
 ======
-* 2021-Present: HEBI Robotics: Applications and Sales Engineer
+* 2023-Present: Boston Dynamics: Prototype Engineer
+* 2021-2023: HEBI Robotics: Applications and Sales Engineer
 * 2019-2021: Graduate Research Assistant
 * Summer 2018: DRAPER Instrumentation Engineering Intern
 
