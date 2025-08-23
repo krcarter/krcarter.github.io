@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "[HEBI ROBOTICS] - Computer Vision Door Opening"
+date:   2021-09-15 22:21:59 +00:00
+image: /images/hebi-door.jpg
+categories: Work
+---
+Worked on the mapping controller for kinematics of a 6DOF robot arm on an articulating tracked base. Computer Vision using Yolo to detect door handles and create door opening pathing based on handle location to turn the door.
+
