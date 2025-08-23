@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "[Boston Dynamics] - Spot Quadruped GPS"
+date:   2024-03-01 22:21:59 +00:00
+image: /images/spot_gps.jpg
+categories: Work
+---
+
+Mechanical and electrical hardware integration getting Spot to work with GPS for outdoor autonomous navigation.
