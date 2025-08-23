@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "[HEBI ROBOTICS] - 4DOF Arm Robot Scanning"
+date:   2022-05-17 22:21:59 +00:00
+image: /images/scan.gif
+categories: Work
+video: https://www.youtube.com/watch?v=tEoKngE73xk&ab_channel=HEBIRobotics
+---
+
+For non desctrutive testing worked on the teleoperation of using a 4 DOF to do ultrasonic scanning thickness of metal areas. Each actuator had torque sensing to at the endeffector tip axis had robot provide a constant output force to get consistent readings from the tool tip
