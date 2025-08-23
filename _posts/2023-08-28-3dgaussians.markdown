@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Flexible Techniques for Differentiable Rendering with 3D Gaussians"
-date:   2023-08-28 22:21:59 +00:00
-image: /images/3dgaussian.jpg
+title:  "Scalable minimally actuated leg extension bipedal walker based on 3D passive dynamics"
+date:   2022-05-23 22:21:59 +00:00
+image: /images/walking_robot.png
 categories: research
-author: "Leo Keselman"
-authors: "<strong>Leonid Keselman</strong>, Martial Hebert"
+author: "Kamal Carter"
+authors: "<strong>Sharfin Islam, Kamal Carter∗</strong>, Justin Yim, James Kyle, Sarah Bergbreiter, Aaron M. Johnson"
 venue: "arXiv"
-arxiv: https://arxiv.org/abs/2308.14737
-code: https://github.com/leonidk/fmb-plus
-website: https://leonidk.github.io/fmb-plus
+arxiv: https://www.andrew.cmu.edu/user/amj1/papers/ICRA2022_3D_Walker_Paper.pdf
+code: 
+website: https://youtu.be/kECAdJEaJlk?si=q5b1uQOeAEOv1Cr0
 ---
-We show how shape reconstruction with 3D Gaussians can be expanded to include differentiable optical flow, colored mesh exports and more. 
+We present simplified 2D dynamic models of the 3D, passive dynamic inspired walking gait of a physical quasi-passive walking robot. Quasi-passive walkers are robots that integrate passive walking principles and some form of actuation.
