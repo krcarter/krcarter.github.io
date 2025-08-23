@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Fast Quadruped Crawling - Reinforcement Learning on Inexpensive Hardware"
+date:   2019-05-05 22:21:59 +00:00
+image: /images/pronk_sim.gif
+categories: Personal
+video: https://www.youtube.com/watch?v=Dv9h6W830aU
+code: https://github.com/krcarter/Reinforcement-Learning-Crawling-Robot/tree/main
+---
+
+Built a 8Dof quadruped robot that uses reinforcement learning for walking. The robot is trained in Pybullet Simulator to maximize robot travel speed contrained by actuator specifications and limits. The robot position based trajectory is then transfered from the simulation on real world hardware
