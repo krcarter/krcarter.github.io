@@ -1,1 +1,1 @@
-My (Kamal Carter) personal academic and work portfolio. I update this portfolio sparingly so please bear with me.
+This is the source code to Jon Barron's public academic website: https://jonbarron.info/. Feel free to clone this code for your own personal use.
