@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "[Boston Dynamics] - Robot Choreography with Heavy Mass"
+date:   2023-11-10 22:21:59 +00:00
+image: /images/weight.gif
+categories: Work
+---
+
+Worked on the mechanical design of testing how a quadruped robot can do dance routines with up to 50 pound payload. Worked on a prototype learned controller in mujoco that optimize for energy efficiency for saving battery life, never deployed but fun.
