@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Robot Aimbot Valorant"
-date:   2024-10-13 22:21:59 +00:00
+date:   2025-08-05 22:21:59 +00:00
 image: /images/valorant_gif.gif
 categories: Personal
 video: https://www.youtube.com/watch?v=fr02fxc-5jo
