@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "[HEBI ROBOTICS] - Leader Follower Robot"
+date:   2022-04-14 22:21:59 +00:00
+image: /images/leader.gif
+categories: Work
+---
+
+Remap kinematics of a 7DOF robot encoder arm to 7 DOF actuated robot arm for customers to do non destrutive testing without prolong exposure to dirty enviornments.
