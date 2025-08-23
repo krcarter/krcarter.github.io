@@ -5,7 +5,7 @@ date:   2019-05-05 22:21:59 +00:00
 image: /images/miniBallbot.png
 categories: CMU
 course: 16-264 Humanoids
-youtube: https://www.youtube.com/watch?v=BM998hw8f84
+video: https://www.youtube.com/watch?v=BM998hw8f84
 ---
 Work with [Roberto Shu](https://rshum19.github.io/) in CMU RI course 16-264 Humanoids, built a low cost robot that balances on a ball. Miniballbot was controled using full state feedback with PID control.
 
