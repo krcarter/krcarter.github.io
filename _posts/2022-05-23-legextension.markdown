@@ -2,7 +2,7 @@
 layout: post
 title:  "Scalable minimally actuated leg extension bipedal walker based on 3D passive dynamics"
 date:   2022-05-23 22:21:59 +00:00
-image: /images/walking_robot.png
+image: /images/walking_robot2.png
 categories: research
 author: "Kamal Carter"
 authors: "<strong>Sharfin Islam, Kamal Carter∗</strong>, Justin Yim, James Kyle, Sarah Bergbreiter, Aaron M. Johnson"
