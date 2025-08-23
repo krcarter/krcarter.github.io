@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "[HEBI ROBOTICS] - Track Robot Navigating Cluttered Enviornment"
+date:   2021-06-25 22:21:59 +00:00
+image: /images/tready.jpg
+categories: Work
+video: https://www.youtube.com/watch?v=RyusD0KFCp8&ab_channel=HEBIRobotics
+---
+
+Early work was on the teleoperation of a 8DOF articulating track robot. Intially user had individual control of each track base on their tablet controller. Later started working on using joint torque feedback from the actuators to have the robot autonomously provide consistent torque to the ground for better navigation of stair cases and cluttered enviornments.
