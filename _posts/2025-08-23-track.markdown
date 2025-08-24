@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Humanoid Reinforcement Learning Track and Field"
-date:   2025-08-05 22:21:59 +00:00
+title:  "Humanoid Reinforcement Learning Track and Field [IN PROGRESS]"
+date:   2025-08-23 22:21:59 +00:00
 image: /images/track.gif
 categories: Personal
 ---
 
-Using Unitree's H1 Humanoid to learn different track events (40 yard, 100 meter, 100 meter hurdle, 200 meter, 400 meters, 1500 meters) using RL reward policy. In the future I want to do retarting work using visual data gather especially for the 40 yard dash since there is a lot of training footage from YouTube as a way not to have to spend so much time tuning intial rewards.
+Using Unitree's H1 Humanoid to learn different track events (40 yard, 100 meters, 110 meters hurdle, 200 meters, 400 meters, 1500 meters) using RL reward policy. In the future I want to do retarting work using visual data gather especially for the 40 yard dash since there is a lot of training footage from YouTube as a way not to have to spend so much time tuning intial rewards.
