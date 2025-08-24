@@ -6,4 +6,4 @@ image: /images/track.gif
 categories: Personal
 ---
 
-Using Unitree's H1 Humanoid to learn different track events (40 yard, 100 meters, 110 meters hurdle, 200 meters, 400 meters, 1500 meters) using RL reward policy. In the future I want to do retarting work using visual data gather especially for the 40 yard dash since there is a lot of training footage from YouTube as a way not to have to spend so much time tuning intial rewards.
+Saw the Humanoid Olympic event in China and decided to instead of teleoperating robot have the robot do the track events autonomously. Using Unitree's H1 Humanoid to learn different track events (40 yard, 100 meters, 110 meters hurdle, 200 meters, 400 meters, 1500 meters) using RL reward policy. In the future I want to do retarting work using visual data gather especially for the 40 yard dash since there is a lot of training footage from YouTube as a way not to have to spend so much time tuning intial rewards. Also in the future I want to add visual perception of the white lines on the track so instead of following the path I set can use visual feedback.
