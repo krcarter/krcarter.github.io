@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Generating a Dynamic Controller for a Flamingo Inspired Robot using Deep Reinforcement Learning"
+date:   2019-08-01 22:21:59 +00:00
+image: /images/flamingo.gif
+categories: Summer Research
+---
+
+Worked with [Nathan Kong](https://nathanjkong.wordpress.com/blog/) on bioinspired flamingo robot that walked using reinforcement learning in Mujoco. My second bipedal robot project and first time doing learning based controls. The sim to real transfer needed some work, but the physical robot was able to get several steps walking in the real world.
